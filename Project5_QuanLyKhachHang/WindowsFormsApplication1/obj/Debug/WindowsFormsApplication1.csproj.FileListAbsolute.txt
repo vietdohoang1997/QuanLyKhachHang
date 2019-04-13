@@ -1,0 +1,12 @@
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmInAn.resources
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+E:\VFolder\Projects\WF Aplication\Project5_QuanLyKhachHang\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
